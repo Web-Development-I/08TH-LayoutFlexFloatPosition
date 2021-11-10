@@ -20,7 +20,7 @@ li{
   text-align: center;
   padding: 2px;
   margin: 5px;
-  flex:0 0 auto; /* default value */
+  flex:0 0 auto; /* default value is 0 1 auto */
 }
 
 
